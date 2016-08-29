@@ -1,0 +1,9 @@
+obj/
+fooplot.make
+Makefile
+
+*.o
+*.a
+*.d
+*.obj
+*.lib
