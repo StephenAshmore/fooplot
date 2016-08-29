@@ -26,3 +26,4 @@ You will need to make sure you install the web_install/fooplot.js file to where 
 - Better platform compatibility, currently only supporting linux.
 - Perhaps a premake5 flag that places the fooplot.js in a designated directory.
 - Command-line flag for specifying output file name, and one for specifying target directory.
+- Add check to make sure that a function is an acceptable function.
